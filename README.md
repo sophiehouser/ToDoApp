@@ -1,5 +1,3 @@
 # ToDoApp
 
-The gif:
-
-! [link to gif] (https://github.com/sophiehouser/ToDoApp/blob/master/todo.gif)
+[GIF of final product](https://github.com/sophiehouser/ToDoApp/blob/master/todo.gif)
